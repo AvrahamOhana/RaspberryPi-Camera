@@ -20,7 +20,7 @@ $ python3 main.py
 To run the script automatically after reboot, use cron.
 
 ```bash
-$ cron -e
+$ crontab -e
 ```
 
 use nano editor and add the command:
