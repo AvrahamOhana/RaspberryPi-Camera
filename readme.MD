@@ -1,9 +1,17 @@
 # Raspberry Pi Camera Capture 
 
 ## Hardware Guide
+1. Connect the camera to the csi port:
 ![plot](md_files/pi4-camera-port.png)
+
+2. Open Raspberry pi configurations:
 ![plot](md_files/pi-configuration-menu.png)
+
+3. Enable camera:
+
 ![plot](md_files/pi-configuration-interfaces-annotated.png)
+
+4. Add Tactile Button as described:
 ![plot](md_files/button.png)
 
 
